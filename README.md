@@ -6,7 +6,7 @@ adding my code
 
 ## Authors
 
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+- [Shivmangal Singh](https://github.com/shivasingh0)
 
 ## Features
 
